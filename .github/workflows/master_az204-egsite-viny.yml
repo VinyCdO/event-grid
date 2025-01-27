@@ -53,4 +53,4 @@ jobs:
           app-name: 'az204-egsite-viny'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_52E86910894F405DACDBC26EC5A403CC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC5054FB81524B2A92038B715E26E5A4 }}
